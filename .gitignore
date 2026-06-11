@@ -482,3 +482,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+NotificationSystem.SmsProcessor/appsettings.json 
+NotificationSystem.PushProcessor/appsettings.json 
